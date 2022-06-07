@@ -1,0 +1,4 @@
+该部分为将src文件夹下的图像文件转换为RGB565格式的.coe文件,采用MATLAB语言编写，用于后续VIVADO的ROM读取。
+
+pic_code:批量读取图片信息，并将其按照对应的width\height进行缩放，生成RGB565数据
+pic_gen:pic_code调用的函数

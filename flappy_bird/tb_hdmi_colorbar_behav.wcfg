@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_hdmi_colorbar_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_hdmi_colorbar" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="20000000000001fs"></ZoomEndTime>
+      <Cursor1Time time="20000000000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="159"></NameColumnWidth>
+      <ValueColumnWidth column_width="71"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="3" />
+   <wvobject fp_name="group712" type="group">
+      <obj_property name="label">hdmi_ctrl</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/hdmi_ctrl_inst/clk_1x" type="logic">
+         <obj_property name="ElementShortName">clk_1x</obj_property>
+         <obj_property name="ObjectShortName">clk_1x</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/hdmi_ctrl_inst/clk_5x" type="logic">
+         <obj_property name="ElementShortName">clk_5x</obj_property>
+         <obj_property name="ObjectShortName">clk_5x</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/hdmi_ctrl_inst/sys_rst_n" type="logic">
+         <obj_property name="ElementShortName">sys_rst_n</obj_property>
+         <obj_property name="ObjectShortName">sys_rst_n</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/hdmi_ctrl_inst/rgb_blue" type="array">
+         <obj_property name="ElementShortName">rgb_blue[7:0]</obj_property>
+         <obj_property name="ObjectShortName">rgb_blue[7:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/hdmi_ctrl_inst/rgb_green" type="array">
+         <obj_property name="ElementShortName">rgb_green[7:0]</obj_property>
+         <obj_property name="ObjectShortName">rgb_green[7:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/hdmi_ctrl_inst/rgb_red" type="array">
+         <obj_property name="ElementShortName">rgb_red[7:0]</obj_property>
+         <obj_property name="ObjectShortName">rgb_red[7:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/hdmi_ctrl_inst/hsync" type="logic">
+         <obj_property name="ElementShortName">hsync</obj_property>
+         <obj_property name="ObjectShortName">hsync</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/hdmi_ctrl_inst/vsync" type="logic">
+         <obj_property name="ElementShortName">vsync</obj_property>
+         <obj_property name="ObjectShortName">vsync</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/hdmi_ctrl_inst/de" type="logic">
+         <obj_property name="ElementShortName">de</obj_property>
+         <obj_property name="ObjectShortName">de</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/hdmi_ctrl_inst/hdmi_clk_p" type="logic">
+         <obj_property name="ElementShortName">hdmi_clk_p</obj_property>
+         <obj_property name="ObjectShortName">hdmi_clk_p</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/hdmi_ctrl_inst/hdmi_clk_n" type="logic">
+         <obj_property name="ElementShortName">hdmi_clk_n</obj_property>
+         <obj_property name="ObjectShortName">hdmi_clk_n</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/hdmi_ctrl_inst/hdmi_r_p" type="logic">
+         <obj_property name="ElementShortName">hdmi_r_p</obj_property>
+         <obj_property name="ObjectShortName">hdmi_r_p</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/hdmi_ctrl_inst/hdmi_r_n" type="logic">
+         <obj_property name="ElementShortName">hdmi_r_n</obj_property>
+         <obj_property name="ObjectShortName">hdmi_r_n</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/hdmi_ctrl_inst/hdmi_g_p" type="logic">
+         <obj_property name="ElementShortName">hdmi_g_p</obj_property>
+         <obj_property name="ObjectShortName">hdmi_g_p</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/hdmi_ctrl_inst/hdmi_g_n" type="logic">
+         <obj_property name="ElementShortName">hdmi_g_n</obj_property>
+         <obj_property name="ObjectShortName">hdmi_g_n</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/hdmi_ctrl_inst/hdmi_b_p" type="logic">
+         <obj_property name="ElementShortName">hdmi_b_p</obj_property>
+         <obj_property name="ObjectShortName">hdmi_b_p</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/hdmi_ctrl_inst/hdmi_b_n" type="logic">
+         <obj_property name="ElementShortName">hdmi_b_n</obj_property>
+         <obj_property name="ObjectShortName">hdmi_b_n</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/hdmi_ctrl_inst/red" type="array">
+         <obj_property name="ElementShortName">red[9:0]</obj_property>
+         <obj_property name="ObjectShortName">red[9:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/hdmi_ctrl_inst/green" type="array">
+         <obj_property name="ElementShortName">green[9:0]</obj_property>
+         <obj_property name="ObjectShortName">green[9:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/hdmi_ctrl_inst/blue" type="array">
+         <obj_property name="ElementShortName">blue[9:0]</obj_property>
+         <obj_property name="ObjectShortName">blue[9:0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group765" type="group">
+      <obj_property name="label">vga_pic</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/vga_ctrl_inst/vga_clk" type="logic">
+         <obj_property name="ElementShortName">vga_clk</obj_property>
+         <obj_property name="ObjectShortName">vga_clk</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/vga_ctrl_inst/sys_rst_n" type="logic">
+         <obj_property name="ElementShortName">sys_rst_n</obj_property>
+         <obj_property name="ObjectShortName">sys_rst_n</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/vga_ctrl_inst/pix_data" type="array">
+         <obj_property name="ElementShortName">pix_data[15:0]</obj_property>
+         <obj_property name="ObjectShortName">pix_data[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/vga_ctrl_inst/pix_x" type="array">
+         <obj_property name="ElementShortName">pix_x[11:0]</obj_property>
+         <obj_property name="ObjectShortName">pix_x[11:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/vga_ctrl_inst/pix_y" type="array">
+         <obj_property name="ElementShortName">pix_y[11:0]</obj_property>
+         <obj_property name="ObjectShortName">pix_y[11:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/vga_ctrl_inst/hsync" type="logic">
+         <obj_property name="ElementShortName">hsync</obj_property>
+         <obj_property name="ObjectShortName">hsync</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/vga_ctrl_inst/vsync" type="logic">
+         <obj_property name="ElementShortName">vsync</obj_property>
+         <obj_property name="ObjectShortName">vsync</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/vga_ctrl_inst/rgb_valid" type="logic">
+         <obj_property name="ElementShortName">rgb_valid</obj_property>
+         <obj_property name="ObjectShortName">rgb_valid</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/vga_ctrl_inst/rgb" type="array">
+         <obj_property name="ElementShortName">rgb[15:0]</obj_property>
+         <obj_property name="ObjectShortName">rgb[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/vga_ctrl_inst/pix_data_req" type="logic">
+         <obj_property name="ElementShortName">pix_data_req</obj_property>
+         <obj_property name="ObjectShortName">pix_data_req</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/vga_ctrl_inst/cnt_h" type="array">
+         <obj_property name="ElementShortName">cnt_h[11:0]</obj_property>
+         <obj_property name="ObjectShortName">cnt_h[11:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/vga_ctrl_inst/cnt_v" type="array">
+         <obj_property name="ElementShortName">cnt_v[11:0]</obj_property>
+         <obj_property name="ObjectShortName">cnt_v[11:0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group766" type="group">
+      <obj_property name="label">vga_ctrl</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/vga_ctrl_inst/vga_clk" type="logic">
+         <obj_property name="ElementShortName">vga_clk</obj_property>
+         <obj_property name="ObjectShortName">vga_clk</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/vga_ctrl_inst/sys_rst_n" type="logic">
+         <obj_property name="ElementShortName">sys_rst_n</obj_property>
+         <obj_property name="ObjectShortName">sys_rst_n</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/vga_ctrl_inst/pix_data" type="array">
+         <obj_property name="ElementShortName">pix_data[15:0]</obj_property>
+         <obj_property name="ObjectShortName">pix_data[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/vga_ctrl_inst/pix_x" type="array">
+         <obj_property name="ElementShortName">pix_x[11:0]</obj_property>
+         <obj_property name="ObjectShortName">pix_x[11:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/vga_ctrl_inst/pix_y" type="array">
+         <obj_property name="ElementShortName">pix_y[11:0]</obj_property>
+         <obj_property name="ObjectShortName">pix_y[11:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/vga_ctrl_inst/hsync" type="logic">
+         <obj_property name="ElementShortName">hsync</obj_property>
+         <obj_property name="ObjectShortName">hsync</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/vga_ctrl_inst/vsync" type="logic">
+         <obj_property name="ElementShortName">vsync</obj_property>
+         <obj_property name="ObjectShortName">vsync</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/vga_ctrl_inst/rgb_valid" type="logic">
+         <obj_property name="ElementShortName">rgb_valid</obj_property>
+         <obj_property name="ObjectShortName">rgb_valid</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/vga_ctrl_inst/rgb" type="array">
+         <obj_property name="ElementShortName">rgb[15:0]</obj_property>
+         <obj_property name="ObjectShortName">rgb[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_hdmi_colorbar/hdmi_colorbar_inst/vga_ctrl_inst/pix_data_req" type="logic">
+         <obj_property name="ElementShortName">pix_data_req</obj_property>
+         <obj_property name="ObjectShortName">pix_data_req</obj_property>
+      </wvobject>
+   </wvobject>
+</wave_config>

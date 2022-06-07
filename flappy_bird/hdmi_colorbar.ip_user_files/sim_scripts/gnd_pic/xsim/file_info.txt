@@ -1,0 +1,2 @@
+gnd_pic.v,verilog,xil_defaultlib,../../../ip/gnd_pic/sim/gnd_pic.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

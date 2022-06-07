@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Learning/Vivado/43_eth_udp_loop/eth_udp_loop/eth_udp_loop.srcs/sources_1/new/udp
+vudp
+!s110 1651669135
+!i10b 1
+!s100 W@GQ5FL`@b36Dk49QkI^k0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`N@:mR@nGEd;5UP3o_Dko2
+R0
+w1651669134
+8D:\Learning\Vivado\43_eth_udp_loop\eth_udp_loop\eth_udp_loop.srcs\sources_1\new\udp\udp.v
+FD:\Learning\Vivado\43_eth_udp_loop\eth_udp_loop\eth_udp_loop.srcs\sources_1\new\udp\udp.v
+!i122 0
+L0 3 46
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OL;L;2020.4;71
+r1
+!s85 0
+31
+!s108 1651669135.000000
+!s107 D:\Learning\Vivado\43_eth_udp_loop\eth_udp_loop\eth_udp_loop.srcs\sources_1\new\udp\udp.v|
+!s90 D:\Learning\Vivado\43_eth_udp_loop\eth_udp_loop\eth_udp_loop.srcs\sources_1\new\udp\udp.v|
+!i113 0
+Z4 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+vudp_rx
+!s110 1652160222
+!i10b 1
+!s100 `<Kch6l8D6mC6DOl?>dN91
+R1
+I0f`FbziMCP9eF2F8?HS=j0
+dD:/Learning/Vivado/flappy_bird/hdmi_colorbar/hdmi_colorbar.srcs/sources_1/new/udp
+w1652160221
+8D:\Learning\Vivado\flappy_bird\hdmi_colorbar\hdmi_colorbar.srcs\sources_1\new\udp\udp_rx.v
+FD:\Learning\Vivado\flappy_bird\hdmi_colorbar\hdmi_colorbar.srcs\sources_1\new\udp\udp_rx.v
+!i122 3
+L0 3 274
+R2
+R3
+r1
+!s85 0
+31
+!s108 1652160222.000000
+!s107 D:\Learning\Vivado\flappy_bird\hdmi_colorbar\hdmi_colorbar.srcs\sources_1\new\udp\udp_rx.v|
+!s90 D:\Learning\Vivado\flappy_bird\hdmi_colorbar\hdmi_colorbar.srcs\sources_1\new\udp\udp_rx.v|
+!i113 0
+R4
+R5

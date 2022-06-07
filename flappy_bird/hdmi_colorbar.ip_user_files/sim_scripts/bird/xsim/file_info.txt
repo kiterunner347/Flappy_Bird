@@ -1,0 +1,2 @@
+bird.v,verilog,xil_defaultlib,../../../ip/bird/sim/bird.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v
