@@ -20,4 +20,4 @@ flappy_bird\hdmi_colorbar.srcs\sources_1\new文件为verilog语言编写的主�
 项目中涉及到ROM存储基本的图像元素构建游戏画面，pic文件夹为flappy_bird基本图像元素，最后可实现效果如图所示：
 ![图像](https://github.com/kiterunner347/flappy_bird/blob/main/pic/%E7%A4%BA%E6%84%8F%E5%9B%BE.png)
 
-演示视频连接()
+演示视频链接：https://www.bilibili.com/video/bv12T411V7wz
